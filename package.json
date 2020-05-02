@@ -1,0 +1,22 @@
+{
+  "name": "user-directory-bulid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunojoey/user-directory-bulid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunojoey/user-directory-bulid/issues"
+  },
+  "homepage": "https://github.com/brunojoey/user-directory-bulid#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
